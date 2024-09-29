@@ -19,4 +19,4 @@ The game architecture follows a modular and object-oriented approach, promoting 
 
 Below is the UML diagram representing the structure of the game:
 
-![UML Diagram](uml-final.pdf)
+![UML Diagram](Screenshot.jpg)
